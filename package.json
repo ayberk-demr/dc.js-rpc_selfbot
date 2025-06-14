@@ -1,0 +1,19 @@
+{
+  "name": "discord-selfbot-rpc",
+  "version": "1.0.0",
+  "description": "RPC Without Downloading Discord App.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "discord.js-v12selfbot": "^2.10.1",
+    "discord.js-selfbot-rpc": "^1.0.1"
+  },
+  "author": "AtaGalata",
+  "license": "MIT",
+  "engines": {
+    "node": "v18.13.0",
+    "npm": "8.19.3"
+  }
+}
