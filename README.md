@@ -2,8 +2,8 @@
   <a href="https://instagram.com/777ayberkk"><img title="Made By Ata" src="https://img.shields.io/badge/Made%20By-Ata-green?style=for-the-badge"></a>
 </p>
 <p align="center">
-  <a href="https://discord.com/users/626847465601236992"><img title="Discord V12" src="https://img.shields.io/badge/Code-Discord%20V12%20Bot-blue"></a>
-  <a href="https://github.com/ayberk-demr/dc.js-v12-bos-altyapi"><img title="Version" src="https://img.shields.io/badge/Version-1.0.0-blue"></a>
+  <a href="https://discord.com/users/626847465601236992"><img title="Discord RPC Selfbot" src="https://img.shields.io/badge/Code-Discord%20V12%20Bot-blue"></a>
+  <a href="https://github.com/ayberk-demr/dc.js-rpc_selfbot/"><img title="Version" src="https://img.shields.io/badge/Version-1.0.0-blue"></a>
   <a href="https://github.com/ayberk-demr/"><img title="Maintainence" src="https://img.shields.io/badge/Bakımlı%20mı%3F-Evet-blue"></a>
 </p>
 
